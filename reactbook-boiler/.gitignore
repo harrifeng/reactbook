@@ -1,0 +1,6 @@
+bundle.css
+bundle.js
+js/build/
+node_modules/
+scripts/bundle.css
+scripts/bundle.js
